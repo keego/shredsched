@@ -1,0 +1,8 @@
+{
+  "name": "shredsched",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:keego/shredsched.git",
+  "author": "Keegan Farley <kfarley@axon.com>",
+  "license": "MIT"
+}
